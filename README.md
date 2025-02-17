@@ -1,1 +1,2 @@
-Buiilt using template by https://codewithsadee.github.io/vcard-personal-portfolio/
+Personal profile
+Credit: Template by https://codewithsadee.github.io/vcard-personal-portfolio/
